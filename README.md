@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ElNer316
+- 👀 I’m interested in Data Analysis.
+- 🌱 I’m currently learning Python.
